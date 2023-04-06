@@ -18,6 +18,8 @@ public class CheckVoterAge {
 	catch(Exception c){
        c.printStackTrace();
 	}
+		
+		System.out.println("abcd");
 
 }
 
